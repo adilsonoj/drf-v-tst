@@ -1,0 +1,11 @@
+.vscode
+backend/blog/environment_settings.py
+backend/db.sqlite3
+backend/staticfiles
+backend/venv
+
+frontend/node_modules/
+
+
+.venv/
+.db
